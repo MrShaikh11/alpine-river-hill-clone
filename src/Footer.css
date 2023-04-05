@@ -1,0 +1,36 @@
+.main-footer{
+    color: white;
+    background-color: #FFBB33;
+    padding-top: 1cm;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+.design{
+    /* background-color: black; */
+    margin-top: 150px;
+height: 60px;
+width: 100%;
+background-image: url(../logo-yellow.png);
+}
+.repeater{
+    padding-bottom: 1000px;
+    width: 80px;
+    height: 56px;
+}
+
+.footer-bottom{
+    background-color: #FF8800;
+}
+
+.list-unstyled ul li{
+    color: white;
+}
+.lastLine{
+    text-align: center;
+}
+
+a{
+    color: white;
+    margin: 0px 4px;
+}

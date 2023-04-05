@@ -1,0 +1,18 @@
+.gallery h1{
+    color: #FF8800;
+}
+.gallery img{
+    width: 372px;
+    height: 100%;
+    margin-bottom:  100px;
+}
+
+.galleryImg{
+    padding: 0;
+    height: 209px;
+    border-radius: 50%;
+}
+
+/* .galleryImage:hover {
+    display: none;
+} */

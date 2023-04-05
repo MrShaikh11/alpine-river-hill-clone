@@ -1,0 +1,29 @@
+.card-title{
+    color: #FFBB33;
+}
+.card{
+    height: 120%;
+    padding: 20px;
+}
+.cardBtn{
+    width: 164px;
+    height: 46px;
+    border-radius: 0%;
+    background-color: #FFBB33;
+}
+
+.card-text{
+    padding: 0 10px;
+    margin-bottom: 30px;
+}
+
+.btn:hover{
+    background-color: #FFBB33;
+}
+/* .cardBtn span{
+    vertical-align: middle;
+} */
+
+.crown{
+    color: #FFBB33 !important;
+}

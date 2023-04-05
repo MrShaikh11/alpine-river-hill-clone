@@ -1,0 +1,60 @@
+.box1 img{
+
+    height: 174px;
+    width: 174px;
+}
+
+
+.contactImg {
+    border-radius: 50%;
+
+}
+.formFull{
+    /* background-image: url("https://alpineriverhill.com/assets/img/4.jpg"); */
+    color: white;
+    margin-bottom: 30px;
+    /* height: 100%; */
+    /* background-size: 100% 100%; */
+    padding: 30px;
+}
+
+.formText{
+    text-align: center;
+}
+
+.formInside{
+    width: 80%;
+    height: 80%;
+}
+.orange{
+    
+    color: #E8762B;
+}
+.form2{
+    border: 2px solid red;
+    background: none !important;
+    color: black;
+    /* height: 100%; */
+    width: 100%;
+}
+
+.row{
+    padding: 30px;
+}
+
+.enquiry{
+    max-width: 700% !important;
+    border: 2px solid red;
+    width: 200%;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.maps{
+    justify-content: center !important;
+    display: flex;
+
+    align-items: center !important;
+}

@@ -1,0 +1,18 @@
+/* .con{
+    background-color:transparent !important;
+} */
+
+.conSlide{
+
+    /* display: flex; */
+    font-size: large;
+    padding: 0px 90px;
+    font-size: x-large;
+    /* background-color: black; */
+    /* color: aliceblue; */
+}
+
+.conSlide span{
+    margin: 20px 20px;
+    vertical-align: middle;
+}

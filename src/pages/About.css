@@ -1,0 +1,26 @@
+.aboutImage{
+    /* background-color: black; */
+    background-image: url("https://alpineriverhill.com/assets/img/5.jpg");
+    background-size:cover;
+    height: 350px;
+    width: 350px;
+    border-radius: 5%;
+}
+
+.aboutText{
+    padding: 75px;
+    padding-top: 0;
+    font-size: large;
+}
+
+.service{
+    background-image: url('https://alpineriverhill.com/assets/img/4.jpg');
+    height: 303px;
+    background-size: cover;
+    font-size: large;
+}
+
+.card-title{
+    /* border-radius: 5%; */
+    color:#e8762b !important;
+}
